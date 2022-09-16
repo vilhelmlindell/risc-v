@@ -1,0 +1,5 @@
+if(EXISTS "C:/Dev/Cpp/CPU/build/Risc-v[1]_tests.cmake")
+  include("C:/Dev/Cpp/CPU/build/Risc-v[1]_tests.cmake")
+else()
+  add_test(Risc-v_NOT_BUILT Risc-v_NOT_BUILT)
+endif()

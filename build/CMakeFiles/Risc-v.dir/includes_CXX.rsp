@@ -1,0 +1,1 @@
+-IC:/Dev/Cpp/CPU/src -isystem "C:/Dev/Cpp/CPU/build/_deps/googletest-src/googletest/include" -isystem "C:/Dev/Cpp/CPU/build/_deps/googletest-src/googletest"
